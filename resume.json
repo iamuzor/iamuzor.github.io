@@ -1,0 +1,105 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Work Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects"
+  },
+  "basics": {
+    "name": "Chibuzor Ugwunna",
+    "phone": "+447555050496",
+    "location": {
+      "address": "London, United Kingdom"
+    },
+    "email": "iamuzor@gmail.com",
+    "website": "linkedin.com/in/iamuzor"
+  },
+  "education": [
+    {
+      "location": "Salford, Greater Manchester",
+      "area": "Business Computing with IT",
+      "studyType": "BSc",
+      "startDate": "2013",
+      "endDate": "2014",
+      "gpa": "",
+      "institution": "University of Salford"
+    },
+    {
+      "institution": "Ealing, Hammersmith & West London College",
+      "location": "London",
+      "studyType": "BTEC Level 5 Higher National Diploma",
+      "area": "Computing and Systems Development",
+      "startDate": "2010",
+      "endDate": "2013"
+    }
+  ],
+  "work": [
+    {
+      "company": "Just Insure",
+      "location": "London, United Kingdom",
+      "position": "Senior Software Engineer",
+      "website": "https://just.insure",
+      "endDate": "June 2024",
+      "highlights": [
+        "Increased cash collection by 13% and reduced bad debt customers by extending our insurance quoting system to run credit and personal details check, integrating with Onfido and Equifax REST APIs.",
+        "Designed a scalable data model for defining underwriting rules to enable business growth into Arizona and other US states. And built a backend service in TypeScript for efficient evaluation of insurance applications against the defined rules.",
+        "Implemented public-facing APIs in GraphQL to expose insurance applications and underwriting decisions to customer support, and customer alike. Using React, Extended our internal CRM to display the data in a user-friendly way.",
+        "Strategically facilitated the transformation and migration of existing insurance data to support the launch of a new insurance products, working closely with the data team to ensure data integrity and consistency.",
+        "Participated in code reviews, providing feedback based on clean code, DDD, TDD and other engineering best practices.",
+        "Reduced production bugs and increased test coverage by writing automated tests. Utilised BDD style for defining/writing test scenarios for high level end-to-end tests to better align with the business and support communication.",
+        "Authored system design documentation, providing visual representations of systems, processes and architectural decisions through BPMN and C4 diagrams.",
+        "Conducted event storming workshops with product managers, customer support, and other stakeholders to clearly define and align on product requirements and expectations.",
+        "Facilitated backend guild meetings, organised discussion topics to promote best practices and knowledge sharing among team members.",
+        "Provided on-call engineering support, working closely with the customer support team to diagnose user experience pain points and apply Agile methodologies and iterative feedback for effective issue resolution."
+      ],
+      "startDate": "March 2023"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": ["PHP", "Typescript", "SQL", "Javascript, HTML, CSS"],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": ["NestJS", "Laravel", "Vue", "React", "HTMX"],
+      "name": "Frameworks and Libraries"
+    },
+    {
+      "keywords": ["MYSQL", "Postgres", "AWS DynamoDB", "Neo4J"],
+      "name": "Databases"
+    },
+    {
+      "keywords": ["AWS Serverless, SAM and CDK"],
+      "name": "Infrastructure As Code"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Framble",
+      "url": "https://framble.co.uk",
+      "keywords": [
+        "Typescript, NodeJS",
+        "NestJS, HTMX",
+        "AWS Services - Lambda, DynamoDB, EventBridge, SQS, Cognito",
+        "Neo4J",
+        "Github Action",
+        "Jira",
+        "Confluence",
+        "Figma"
+      ],
+      "description": "A social challenge app"
+    }
+  ],
+  "awards": [{}],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
