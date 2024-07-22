@@ -83,16 +83,18 @@
       "name": "Framble",
       "url": "https://framble.co.uk",
       "keywords": [
-        "Typescript, NodeJS",
-        "NestJS, HTMX",
-        "AWS Services - Lambda, DynamoDB, EventBridge, SQS, Cognito",
+        "Typescript",
+        "NestJS",
+        "AlpineJS",
+        "HTMX",
+        "AWS - Lambda, DynamoDB, EventBridge, SQS, Cognito",
         "Neo4J",
         "Github Action",
         "Jira",
         "Confluence",
         "Figma"
       ],
-      "description": "A social challenge app"
+      "description": "A social gambling and challenge app"
     }
   ],
   "awards": [{}],
