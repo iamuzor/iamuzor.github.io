@@ -43,7 +43,8 @@
       "endDate": "June 2024",
       "highlights": [
         "Increased cash collection by 13% and reduced bad debt customers by extending our insurance quoting system to run credit and personal details check, integrating with Onfido and Equifax REST APIs.",
-        "Designed a scalable data model for defining underwriting rules to enable business growth into Arizona and other US states. And built a backend service in TypeScript for efficient evaluation of insurance applications against the defined rules.",
+        "Designed a scalable data model for defining and configuring underwriting rules against insurance packages to enable business growth into Arizona and other US states.",
+        "Built a backend service module in TypeScript/Node.js for evaluating customer insurance application against predefined underwriting rules.",
         "Implemented public-facing APIs in GraphQL to expose insurance applications and underwriting decisions to customer support, and customer alike. Using React, Extended our internal CRM to display the data in a user-friendly way.",
         "Strategically facilitated the transformation and migration of existing insurance data to support the launch of a new insurance products, working closely with the data team to ensure data integrity and consistency.",
         "Participated in code reviews, providing feedback based on clean code, DDD, TDD and other engineering best practices.",
