@@ -42,8 +42,8 @@
       "website": "https://just.insure",
       "endDate": "June 2024",
       "highlights": [
-        "Facilitated integrations with Equifax and Onfido REST APIs for credit and personal details checks, resulting in a 13% increase in cash collection and a reduction in bad debt customers.",
-        "Implemented retry mechanisms to ensure reliable API interactions and developed cost-saving logic to optimize API usage, minimizing operational expenses.",
+        "Spearheaded the integration with Equifax and Onfido REST APIs for credit and personal details checks, resulting in a 13% increase in cash collection and a reduction in bad debt customers.",
+        "Implemented retry mechanisms to handle potential third-party service disruptions and developed cost-saving logic to optimize API usage and reduce operational expenses.",
         "Designed a scalable data model for defining and configuring underwriting rules against insurance packages to enable business growth into Arizona and other US states.",
         "Built a standalone backend module in TypeScript/Node.js for evaluating customer insurance applications against predefined underwriting rules, adhering to SOLID and DRY principles to ensure maintainability and scalability.",
         "Implemented public-facing APIs in GraphQL to expose insurance applications and underwriting decisions to customer support, and customer alike. Using React, Extended our internal CRM to display the data in a user-friendly way.",
