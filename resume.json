@@ -65,7 +65,10 @@
       "website": "https://zavamed.com/uk",
       "endDate": "December 2022",
       "highlights": [
-        "Designed and built a real-time live video consultation and booking systems using Vue for the frontend, Typescript and NodeJS for the backend, AWS Serverless, enhancing patient care and increasing daily consultations. Integrated with Twilio APIs for secure peer-to-peer video calls, and an external scheduling system for appointments booking."
+        "Designed and built a real-time live video consultation and booking systems using Vue for the frontend, Typescript and NodeJS for the backend, AWS Serverless, enhancing patient care and increasing daily consultations. Integrated with Twilio APIs for secure peer-to-peer video calls, and an external scheduling system for appointments booking.",
+        "Boosted prescription accuracy and doctor confidence by integrating internal tools with 3rd party medical pratice systems to provide a comprehensive drug information database.",
+        "Participated in developing digital prescription capabilities by integrating with trusted digital signature providers, facilitating a broader pharmacy partnership and minimising the need for paper prescription.",
+        "Collaborated with product and QA teams to define high level acceptance criteria and test scenarios. Leveraging TDD and BDD methods, wrote automated unit and end-to-end tests using tools like Postman, Cucumber and Jest."
       ]
     }
   ],
