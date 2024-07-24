@@ -68,7 +68,12 @@
         "Designed and built a real-time live video consultation and booking systems using Vue for the frontend, Typescript and NodeJS for the backend, AWS Serverless, enhancing patient care and increasing daily consultations. Integrated with Twilio APIs for secure peer-to-peer video calls, and an external scheduling system for appointments booking.",
         "Boosted prescription accuracy and doctor confidence by integrating internal tools with 3rd party medical pratice systems to provide a comprehensive drug information database.",
         "Participated in developing digital prescription capabilities by integrating with trusted digital signature providers, facilitating a broader pharmacy partnership and minimising the need for paper prescription.",
-        "Collaborated with product and QA teams to define high level acceptance criteria and test scenarios. Leveraging TDD and BDD methods, wrote automated unit and end-to-end tests using tools like Postman, Cucumber and Jest."
+        "Collaborated with product and QA teams to define high level acceptance criteria and test scenarios. Leveraging TDD and BDD methods, wrote automated unit and end-to-end tests using tools like Postman, Cucumber and Jest.",
+        "Created comprehensive system/feature design documentation using C4 and BPMN diagrams, facilitating clear and effective team communication.",
+        "Set up CI/CD pipelines in Jenkins, streamlining deployment processes and ensuring adequate test coverage for production stability.",
+        "Participated in code reviews, spotting potential issues, missing test cases and providing feedback on code quality, maintainability and scalability.",
+        "Leveraged AWS Serverless, SAM and CDK to design and manage serverless architectures, including Lambda, API Gateway, DynamoDB, and more.",
+        "Led guild sessions, discussing best practices and innovations in engineering, fostering a culture of continuous improvement."
       ]
     }
   ],
