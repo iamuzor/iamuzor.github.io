@@ -57,6 +57,16 @@
         "Provided on-call engineering support, working closely with the customer support team to diagnose user experience pain points and apply Agile methodologies and iterative feedback for effective issue resolution."
       ],
       "startDate": "March 2023"
+    },
+    {
+      "company": "Zavamed",
+      "location": "London, United Kingdom",
+      "position": "Senior Full Stack Engineer",
+      "website": "https://zavamed.com/uk",
+      "endDate": "December 2022",
+      "highlights": [
+        "Designed and built a real-time live video consultation and booking systems using Vue for the frontend, Typescript and NodeJS for the backend, AWS Serverless, enhancing patient care and increasing daily consultations. Integrated with Twilio APIs for secure peer-to-peer video calls, and an external scheduling system for appointments booking."
+      ]
     }
   ],
   "skills": [
