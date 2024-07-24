@@ -85,11 +85,12 @@
       "position": "Lead Engineer (contract)",
       "endDate": "(ongoing)",
       "highlights": [
-        "Designed and launched the Framble web app using HTMX and Alpine.js, catering to non-iOS users and driving user growth.",
-        "Architected a hybrid backend system combining monolithic and microservices approaches, leveraging AWS EventBridge and SQS for asynchronous processing.",
-        "Integrated payment gateways to handle debit card payments, e-wallet top-ups, and payouts, streamlining user financial interactions within Framble.",
-        "Implemented KYC and AML checks via integrations with identity verification providers, strengthening security and reducing fraud.",
-        "Liased directly with the CEO to define product roadmaps and feature priorities, aligning development efforts with business objectives.",
+        "Architected a hybrid backend system with monolithic and microservices components, utilizing AWS EventBridge and SQS for robust asynchronous processing.",
+        "Implemented swagger-documented REST APIs to support the Framble iOS app, enabling user registration, placing bets, and every other user interaction.",
+        "Designed and launched the Framble web app using HTMX and Alpine.js, catering to Android and other non-iOS users and driving growth.",
+        "Integrated payment gateways to facilitate debit card transactions, e-wallet top-ups, and payouts, optimizing financial operations for Framble users.",
+        "Implemented KYC and AML checks through integrations with identity verification providers, enhancing platform security and minimizing fraud.",
+        "Liaised directly with the CEO to define product roadmaps and feature priorities, aligning development with strategic business objectives.",
         "Managed the business' Kanban board, formulating user stories and acceptance criteria to ensure clear project goals and effective sprint execution.",
         "Conducted hiring of a UI/UX designer to support the development of user interfaces, enhancing user experience and engagement.",
         "Setup CI/CD pipelines in Github Actions, automating deployment processes and ensuring consistent code quality and stability across frontend and backend stack"
