@@ -126,6 +126,24 @@
         "Conducted hiring of a UI/UX designer to support the development of user interfaces, enhancing user experience and engagement.",
         "Setup CI/CD pipelines in Github Actions, automating deployment processes and ensuring consistent code quality and stability across frontend and backend stack"
       ]
+    },
+    {
+      "company": "PeoplePerHour",
+      "location": "London, United Kingdom",
+      "position": "Web Developer (freelance)",
+      "startDate": "January 2015",
+      "endDate": "October 2018",
+      "highlights": [
+        "Converted PSD designs into responsive HTML/CSS templates, ensuring cross-browser compatibility and mobile responsiveness.",
+        "Developed and maintained websites for small to medium-sized businesses using PHP, MySQL, HTML, CSS, and JavaScript.",
+        "Built custom Vue.js plugins utilizing the WordPress API, enhancing website functionality with features like a booking system for a local football club.",
+        "Created a pet tracking frontend application using AngularJS, allowing pet owners to monitor their pets' locations and health status.",
+        "Integrated Stripe into an existing website to enable subscription-based payments, enhancing user experience and boosting revenue.",
+        "Developed an internal order management system with Laravel and Vue.js, streamlining operations such as quotes, sales invoices, delivery, and collection notes.",
+        "Provided consultation services to small businesses on establishing an online presence, advising on website design and development best practices.",
+        "Collaborated with other freelancers, including UI designers, to deliver high-quality websites tailored to client specifications and requirements.",
+        "For more details, visit my profile: [PeoplePerHour - Innocent Chibuzor Ugwunna](https://www.peopleperhour.com/freelancer/technology-programming/innocent_chibuzor-ugwunna-software-engineer-nyamzw)"
+      ]
     }
   ],
   "skills": [
