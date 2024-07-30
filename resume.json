@@ -40,14 +40,15 @@
       "location": "London, United Kingdom",
       "position": "Senior Backend Engineer",
       "website": "https://just.insure",
+      "startDate": "March 2023",
       "endDate": "June 2024",
       "highlights": [
-        "Spearheaded the integration with Equifax and Onfido REST APIs for credit and personal details checks, resulting in a 13% increase in cash collection and a reduction in bad debt customers.",
-        "Implemented retry mechanisms to handle potential third-party service disruptions and developed cost-saving logic to optimize API usage and reduce operational expenses.",
+        "Spearheaded integrations with Equifax and Onfido REST APIs for credit and personal details checks, resulting in a 13% increase in cash collection and a reduction in bad debt customers.",
         "Designed a scalable data model for defining and configuring underwriting rules against insurance packages to enable business growth into Arizona and other US states.",
         "Built a standalone backend module in TypeScript/Node.js for evaluating customer insurance applications against predefined underwriting rules, adhering to SOLID and DRY principles to ensure maintainability and scalability.",
         "Implemented public-facing APIs in GraphQL to expose insurance applications and underwriting decisions to customer support, and customer alike. Using React, Extended our internal CRM to display the data in a user-friendly way.",
         "Strategically facilitated the transformation and migration of existing insurance data to support the launch of a new insurance products, working closely with the data team to ensure data integrity and consistency.",
+        "Designed and implemented retry mechanisms to handle potential third-party service disruptions and developed cost-saving logic to optimize API usage and reduce operational expenses.",
         "Configured Datadog for monitoring and Slack for real-time alerts, enhancing issue management.",
         "Provided troubleshooting guides to aid on-call support and engineers in resolving problems swiftly.",
         "Participated in code reviews, providing feedback based on clean code, DDD, TDD and other engineering best practices.",
@@ -56,18 +57,17 @@
         "Conducted event storming workshops with product managers, customer support, and other stakeholders to clearly define and align on product requirements and expectations.",
         "Facilitated backend guild meetings, organised discussion topics to promote best practices and knowledge sharing among team members.",
         "Provided on-call engineering support, working closely with the customer support team to diagnose user experience pain points and apply Agile methodologies and iterative feedback for effective issue resolution."
-      ],
-      "startDate": "March 2023"
+      ]
     },
     {
       "company": "Zavamed",
       "location": "London, United Kingdom",
       "position": "Senior Full Stack Engineer",
       "website": "https://zavamed.com/uk",
+      "startDate": "January 2022",
       "endDate": "December 2022",
-      "startDate": "November 2018",
       "highlights": [
-        "Designed and built a real-time live video consultation and booking systems using Vue for the frontend, Typescript and NodeJS for the backend, AWS Serverless, enhancing patient care and increasing daily consultations. Integrated with Twilio APIs for secure peer-to-peer video calls, and an external scheduling system for appointments booking.",
+        "Designed and developed a live video consultation portal and booking systems for enhancing patient care and increasing daily consultations. Vue.js for the UI, Typescript/NodeJS for the backend, utilising AWS Services. Integrated with Twilio APIs for secure peer-to-peer video calls, and an external scheduling system for appointments booking.",
         "Boosted prescription accuracy and doctor confidence by integrating internal tools with 3rd party medical pratice systems to provide a comprehensive drug information database.",
         "Participated in developing digital prescription capabilities by integrating with trusted digital signature providers, facilitating a broader pharmacy partnership and minimising the need for paper prescription.",
         "Decoupled tightly coupled microservices by implementing an event-driven architecture using AWS EventBridge, SQS and SNS, improving system reliability and scalability.",
@@ -78,6 +78,36 @@
         "Participated in code reviews, spotting potential issues, missing test cases and providing feedback on code quality, maintainability and scalability.",
         "Leveraged AWS Serverless, SAM and CDK to design and manage serverless architectures, including Lambda, API Gateway, DynamoDB, and more.",
         "Hosted guild sessions, discussing best practices and innovations in engineering, fostering a culture of continuous improvement."
+      ]
+    },
+    {
+      "company": "Just Eat For Business",
+      "location": "London, United Kingdom",
+      "position": "Senior Backend Stack Engineer",
+      "website": "https://www.business.just-eat.co.uk/",
+      "startDate": "August 2021",
+      "endDate": "December 2021",
+      "highlights": [
+        "Enhanced the order tracking API using TypeScript/Node.js, providing real-time updates on delayed deliveries and improving customer support transparency and responsiveness.",
+        "Conducted in-depth evaluations of third-party delivery services, integrating the most reliable and cost-effective options to boost delivery reliability and reduce operational expenses.",
+        "Actively engaged in daily stand-ups and sprint planning meetings, aligning development initiatives with business priorities and ensuring on-time feature delivery.",
+        "Contributed to code reviews and pair programming sessions, fostering knowledge sharing and implementing best practices to elevate code quality and maintainability."
+      ]
+    },
+    {
+      "company": "Zavamed",
+      "location": "London, United Kingdom",
+      "position": "Mid Full Stack Engineer",
+      "website": "https://zavamed.com/uk",
+      "startDate": "November 2018",
+      "endDate": "July 2021",
+      "highlights": [
+        "Developed a PDF prescription generator using PHP and Laravel, enabling doctors to issue accurate paper prescriptions and enhancing patient care.",
+        "Contributed to the development of a Vue.js-based patient portal, allowing patients to access medical records and communicate effectively with doctors.",
+        "Collaborated with product managers and QA engineers to define acceptance criteria and test scenarios, ensuring the delivery of high-quality features and efficient issue resolution.",
+        "Enhanced delivery efficiency by implementing retry mechanisms for third-party API interactions, reducing operational costs and improving customer satisfaction.",
+        "Supported the decoupling of our tightly coupled monolithic service into microservices, leveraging AWS Lambda and API Gateway for serverless architecture.",
+        "Provided on-call engineering support, delivering first-line technical assistance and resolving issues promptly to support customer service teams."
       ]
     },
     {
