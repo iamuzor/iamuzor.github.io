@@ -1,0 +1,1 @@
+* I've integrated web/software products with Equifax for credit checks, Onfido for personal detail check, Stripe for payments, and Twilio for video and push notifications amongst others. Making sure to include retry mechanisms to circumvent service failures and maintain a smooth user experience. 
