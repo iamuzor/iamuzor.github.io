@@ -1,0 +1,151 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "skills": "",
+    "projects": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Chibuzor Ugwunna",
+    "email": "iamuzor@gmail.com",
+    "phone": "+447555050496",
+    "website": "linkedin.com/in/iamuzor",
+    "location": {
+      "address": "London, United Kingdom"
+    }
+  },
+  "education": [
+    {
+      "institution": "University of Salford",
+      "location": "Salford, Greater Manchester",
+      "area": "Business Computing with IT",
+      "startDate": "2013",
+      "endDate": "2014",
+      "gpa": "",
+      "studyType": "BSc"
+    },
+    {
+      "institution": "Ealing, Hammersmith & West London College",
+      "studyType": "BTEC Level 5 Higher National Diploma",
+      "area": "Computing and Systems Development",
+      "startDate": "2010",
+      "endDate": "2013"
+    }
+  ],
+  "work": [
+    {
+      "company": "Just Insure",
+      "location": "London, United Kingdom",
+      "position": "Senior Backend Engineer",
+      "website": "",
+      "startDate": "March 2023",
+      "endDate": "June 2024",
+      "highlights": [
+        "Designed, implemented, and maintained robust GraphQL APIs in TypeScript, efficiently handling personal data and credit checks.",
+        "Implemented token-based authorization to safeguard GraphQL APIs from unauthorized access, enhancing overall security.",
+        "Developed and automated comprehensive unit and end-to-end tests using Jest and Cucumber, improving code reliability and reducing bugs.",
+        "Led data migration initiatives in PostgreSQL to support the seamless release of new features, ensuring data integrity and system stability.",
+        "Designed a scalable data model for defining underwriting rules, suitable for both PostgreSQL (SQL) and GCP Datastore (NoSQL) databases, enabling precise determination of customer insurability.",
+        "Deployed applications to both Google Cloud Platform (GCP) and Heroku, ensuring reliable and scalable cloud infrastructure.",
+        "Produced detailed systems design and architecture documentation using C4 and BPMN tools to enhance communication and alignment across teams.",
+        "Contributed to the enhancement of the internal CRM system built in ReactJS, providing customer support teams with real-time access to credit scores and driving history.",
+        "Configured and optimized logging, monitoring, and alerting systems in Datadog, ensuring API services consistently met predefined SLOs.",
+        "Identified and resolved critical bugs and flaky automated tests, streamlining deployment processes and minimizing downtime.",
+        "Provided actionable feedback through thorough code reviews, and produced detailed system and architectural design documentation to guide development teams.",
+        "Facilitated event storming sessions to extract business requirements and align technical solutions with organizational goals."
+      ]
+    },
+    {
+      "company": "Zavamed",
+      "location": "London, United Kingdom",
+      "position": "Senior Backend Engineer",
+      "website": "",
+      "startDate": "March 2023",
+      "endDate": "June 2024",
+      "highlights": [
+        "Developed a peer-to-peer video consultation platform using Vue, TypeScript, AWS Lambda, DynamoDB, and API Gateway, integrating Twilio for video and push notifications.",
+        "Using AWS Cognito, created a token and role-based authentication and authorisation logic to protect patient data and prevent unauthorized access",
+        "Designed and optimized data structures for DynamoDB, including the creation of indexes tailored to specific access patterns, ensuring efficient data retrieval.",
+        "Documented RESTful APIs using Swagger and Postman, providing clear and comprehensive API documentation for internal and external stakeholders.",
+        "Implemented automated contract tests for messaging systems using Pact, ensuring reliable and consistent communication between microservices.",
+        "Integrated internal systems with an external scheduling API, enabling seamless appointment booking for patients with doctors.",
+        "Utilized AWS CDK, SAM, and Serverless Framework for infrastructure setup, eg. SQS, EventBridge, DynamoDB, and API Gateway, ensuring scalable and maintainable deployments.",
+        "Collaborated with product and QA teams to define acceptance criteria and translate them into automated tests, enhancing release reliability.",
+        "Configured CI/CD pipelines in Jenkins to automate deployments, ensuring tests pass and coverage meets standards before production releases.",
+        "Set up logging, monitoring, and alerting in NewRelic with Slack notifications, enabling prompt responses to potential issues and maintaining system health.",
+        "Participated in code reviews, providing feedback based on software engineering best practices and contributing to overall code quality improvements.",
+        "Liaised with doctors to understand their pain points and develop targeted solutions, enhancing the user experience for medical professionals.",
+        "Hosted backend guild sessions to discuss software engineering best practices and innovations, fostering knowledge sharing and team development."
+      ]
+    },
+    {
+      "company": "Fluttermedia Ltd",
+      "location": "Chesire, United Kingdom",
+      "position": "Lead Engineer (contract)",
+      "startDate": "2018",
+      "endDate": "2024",
+      "highlights": [
+        "Designed and developed the entire backend infrastructure for the Framble app, leveraging RESTful APIs and event-driven microservices to create a highly scalable and robust architecture, supporting seamless user experiences.",
+        "Led the development of the Framble web app using lightweight front-end libraries HTMX and Alpine.js, ensuring a fast, responsive, and intuitive user interface that significantly improved user engagement.",
+        "Integrated with an external payment gateway provider to facilitate card payments.",
+        "Provided support to the iOS team by providing Swagger documentation with example responses.",
+        "Automated deployment processes using GitHub Actions, deploying backend systems and web applications to AWS and DigitalOcean, resulting in faster and more reliable release cycles.",
+        "Setup DNS configuration in Cloudflare",
+        "Managed the projects kanban board in Jira, formulating user stories for development.",
+        "Set up and managed cloud hosting environments on AWS and DigitalOcean, including configuring IAM roles and organization accounts, enhancing security and operational efficiency.",
+        "Led the hiring process for junior developers and a UI/UX designer, growing the team and enhancing overall development capabilities. Managed project timelines and priorities by overseeing the Kanban board in Jira.",
+        "Collaborated directly with the CEO to define the product roadmap and prioritize features, ensuring alignment with business goals and timely delivery of key milestones."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": ["PHP", "Typescript", "SQL", "Javascript, HTML, CSS"],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": ["NestJS", "Laravel", "Vue", "React", "HTMX"],
+      "name": "Frameworks and Libraries"
+    },
+    {
+      "keywords": ["MYSQL", "Postgres", "AWS DynamoDB", "Neo4J"],
+      "name": "Databases"
+    },
+    {
+      "keywords": ["AWS Serverless, SAM and CDK"],
+      "name": "Infrastructure As Code"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Framble",
+      "url": "https://framble.co.uk",
+      "keywords": [
+        "Typescript",
+        "NestJS",
+        "AlpineJS",
+        "HTMX",
+        "HTML",
+        "CSS",
+        "TailwindCSS",
+        "AWS - Lambda, DynamoDB, EventBridge, SQS, Cognito",
+        "Neo4J",
+        "Github Action",
+        "Jira",
+        "Confluence",
+        "Figma"
+      ],
+      "description": "A social gambling and challenge app"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
